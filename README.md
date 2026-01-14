@@ -5,7 +5,7 @@ A serverless AWS application that automatically fetches trending technology news
 ---
 
 ## 🏗️ DEMO VIDEO:-
-
+https://github.com/user-attachments/assets/158a7076-cdb2-4011-9d0b-eaacb2c32df6
 ---
 
 ## 🔗 Project Links
