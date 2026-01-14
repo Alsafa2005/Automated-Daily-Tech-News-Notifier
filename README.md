@@ -23,4 +23,4 @@ The project follows a decoupled, event-driven serverless architecture:
 4. **Delivery:** **Amazon SES** handles the secure delivery of the news digest to verified email addresses.
 5. **UI:** **AWS Amplify** hosts a professional landing page to monitor system status.
 
-![Architecture Diagram](./architecture-diagram.png)
+<img width="1366" height="650" alt="Image" src="https://github.com/user-attachments/assets/356199ca-6bee-4c0a-9db9-a5f63166a8cf" />
